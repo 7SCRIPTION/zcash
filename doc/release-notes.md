@@ -4,7 +4,7 @@ release-notes at release time)
 Notable changes
 ===============
 
-zcash-cli: arguments privacy
+zcash-cli: arguments privacy 
 ----------------------------
 
 The RPC command line client gained a new argument, `-stdin`
